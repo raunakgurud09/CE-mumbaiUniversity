@@ -1,4 +1,5 @@
-len = 5
+import pandas as pd
 
-for i in range(len):
-    print(i)
+df = pd.read_csv("./KNN.csv")
+print(df.head())
+# print(df)

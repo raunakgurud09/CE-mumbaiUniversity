@@ -8,7 +8,7 @@ for i in range(leng):
     for j in range(leng):
         l[i].append(dist(p[i], p[j]))
 
-min = int(input("Minimum No. of neighbouring pts:"))
+min = int(input("Minimum No. of neighbouring pts:")) #input - eligible for becoming core pt
 e =  int(input("Minimum Dist e:"))
 c = [0] * leng
 
