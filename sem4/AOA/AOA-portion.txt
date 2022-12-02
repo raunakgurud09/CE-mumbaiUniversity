@@ -1,0 +1,45 @@
+-introduction
+analysic of space & time 
+P NP NP-hard NP-complete
+insertion 
+selection
+
+-recursion
+substitution
+recursion tree
+master method
+
+-divide and conqure
+merge
+quick
+binary
+min and max
+
+-greedy method
+fractional knapsack
+job sequence with deadlines
+single source shortest path : Dijkstas
+minimum const spanning tree : Kruskal and prim's 
+
+-Dynammic programming
+miltistagegraph
+single source shortest path : bellman ford
+all pair shrotest path      : flyod warshall
+0/1 knapsack problem
+longest common sub-sequence
+travelling salesman problem
+assmibly line sheduling
+
+-Backtracking 
+N-queen
+sum of subsets
+graph coloring
+
+- Branch and bound
+Travelling salesman
+15 puzzel problem
+
+-String matching Algo
+navie string matching algorithms
+Rabin-karp algorithms
+knuth-morris-pratt
